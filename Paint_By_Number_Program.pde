@@ -2,6 +2,8 @@
 By Joep Eijkemans
 
 translates any image into a paint-by-number painting. Can color and / or outline the painting
+
+www.joepeijkemans.nl
 */
 
 PImage input;
